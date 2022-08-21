@@ -1,17 +1,15 @@
-// Abdilah
-
 [{
-latin : "Al-Qur'an",
-arab : "القران",
-url : '/aplikasi/quran'
+"latin" : "Al-Qur'an",
+"arab" : "القران",
+"url" : "/aplikasi/quran"
 },
 {
-latin: "Rotibul Haddad",
-          arab: " راتب الحدّاد",
-          url: "quran",
+"latin": "Rotibul Haddad",
+"arab": " راتب الحدّاد",
+"url": "quran"
 },{
-          latin: "Tahlil",
-          arab: "تهليل",
-          url: "quran",
-        },
+"latin": "Tahlil",
+"arab": "تهليل",
+"url": "quran"
+}
 ]
